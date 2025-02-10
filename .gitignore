@@ -1,0 +1,8 @@
+.xingyun
+*.pyc
+.vscode
+paint/cache/*.pkl
+figure/*/*.png
+figure/*/*.pdf
+figure/appendix/*/*.png
+figure/appendix/*/*.pdf
