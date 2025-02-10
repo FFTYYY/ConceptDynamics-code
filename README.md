@@ -7,6 +7,8 @@ Before running the code, please make sure [xingyun](https://github.com/FFTYYY/Xi
 ```
 pip install xingyun
 ```
+`xingyun` has been set to store data locally so no further configuration is required.
+
 ------
 To reproduce all the figures of the SIM task in the paper, run the following command. 
 ```
