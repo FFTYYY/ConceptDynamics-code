@@ -9,7 +9,9 @@ All figures will be saved in `figure/`.
 
 
 To reproduce the figures of the diffusion task, run 
-```python -m paint.curve_diffusion```
+```
+python -m paint.curve_diffusion
+```
 The figures will be saved in `figure/diffusion/`.
 For more details with the diffusion task, please refer to [this repo](https://github.com/cfpark00/concept-learning).
 
